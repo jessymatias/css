@@ -4,3 +4,13 @@
     margin: 0px;
     padding: 0px;
 }
+ head {
+    background-color: black;
+    color: antiquewhite;
+}
+p{
+    background-color:brown ;
+}
+footer{
+    color: blue;
+}
