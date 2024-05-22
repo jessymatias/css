@@ -10,10 +10,8 @@ tablet:de 768px ate 992px
 Desktop:992px ate 1200px
 Grandes telas: acima de 1200px */
 
-@media print {
-    
-}
-@media screen and (min-width:768px) and ( max-width:992) {/*tablet*/
+
+@media screen and (min-width:768px) and ( max-width:992px) {/*tablet*/
 body { background-image: url(../imagens/back-tablet.jpg);
 
 }
