@@ -9,17 +9,21 @@
     padding: 0px;
     box-sizing: border-box;
 }
-body,html {
+html {
     width: 100vw;
-    height: 100vh;
+   
 }
 body {
  background: black url(../estilos/back-phone.jpg) no-repeat ;
+ background-size: cover;
+ background-position: center center;
+
 }
 main {
     background-color: rgb(255,255,255, 0.842);
-    width: 90vw;
+    width: 80vw;
     margin: auto;
+    margin-top: 20px;
     border-radius: 10px;
     padding: 10px;
 }
